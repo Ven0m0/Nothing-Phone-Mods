@@ -2,12 +2,12 @@
 
 https://xdaforums.com/t/nothing-archive-stock-ota-incremental-updates-firmware-flashing-tools-guides-for-phone-2.4650877/
 
-
 NothingMuchRom:
+
 https://xdaforums.com/t/nothingmuchrom-for-nothing-phone-2.4623411/
 
-
 arter97 kernel:
+
 https://xdaforums.com/t/r35-arter97-kernel-for-nothing-phone-2.4631313/
 
 
