@@ -11,7 +11,8 @@ arter97 kernel:
 https://xdaforums.com/t/r35-arter97-kernel-for-nothing-phone-2.4631313/
 
 
-Solving Bank apps
+Solving Bank apps:
+
 https://www.reddit.com/r/Magisk/comments/1apepfh/article_guide_solving_bank_apps_google_wallet_and
 https://github.com/lepras/bankingAOSP
 https://xdaforums.com/t/guide-howto-use-banking-apps-on-your-rooted-device.4530801/
