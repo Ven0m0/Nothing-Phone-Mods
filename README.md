@@ -1,5 +1,10 @@
 # Nothing-Phone-Mods
 
+Guide to flash NothingMuchRom and arter97 kernel:
+
+https://telegra.ph/UNOFFICIAL-Flashing--Upgrading-Guide-for-arter97-Nothing-Much-NM-ROM--Kernel-04-21
+
+
 https://xdaforums.com/t/nothing-archive-stock-ota-incremental-updates-firmware-flashing-tools-guides-for-phone-2.4650877/
 
 NothingMuchRom:
